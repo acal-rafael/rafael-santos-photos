@@ -1,0 +1,1 @@
+console.log("Add file script js");
